@@ -1,0 +1,7 @@
+📂 Структура файлов:
+/src/
+  /components/
+    MobileMenu.tsx       ← файл 2
+    BookingModal.tsx     ← файл 3
+  App.tsx (или Home.tsx) ← файл 1
+Готово! Теперь у вас есть все 3 файла отдельно! 🔥
